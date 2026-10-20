@@ -1,6 +1,6 @@
 module github.com/streamingfast/firehose-ethereum
 
-go 1.22.0
+go 1.24
 
 require (
 	github.com/RoaringBitmap/roaring v1.9.1
@@ -9,7 +9,7 @@ require (
 	github.com/golang/protobuf v1.5.4
 	github.com/holiman/uint256 v1.2.0
 	github.com/josephburnett/jd v1.7.1
-	github.com/klauspost/compress v1.17.11
+	github.com/klauspost/compress v1.18.7
 	github.com/mitchellh/go-testing-interface v1.14.1
 	github.com/mostynb/go-grpc-compression v1.1.17
 	github.com/spf13/cobra v1.7.0
